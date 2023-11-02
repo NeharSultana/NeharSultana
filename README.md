@@ -28,7 +28,6 @@ Data Manipulation and Analysis: ![pandas](https://github.com/NeharSultana/NeharS
 Machine Learning Frameworks: ![tensorflow](https://github.com/NeharSultana/NeharSultana/assets/128970779/8c1c4b50-cb13-45cb-ac99-4fc6951bec33)
                              ![pytorch](https://github.com/NeharSultana/NeharSultana/assets/128970779/74305bec-27a1-464c-9220-8335b6ca66df)
 
-Data Visualization: ![plotly](https://github.com/NeharSultana/NeharSultana/assets/128970779/b5235baa-efbb-4961-8af2-fd562c58f685)                             
-                    ![matplotlib](https://github.com/NeharSultana/NeharSultana/assets/128970779/3a03b7f7-6d6e-4f2d-9be3-0afb28b85039)
+Data Visualization: ![matplotlib](https://github.com/NeharSultana/NeharSultana/assets/128970779/3a03b7f7-6d6e-4f2d-9be3-0afb28b85039)
                     ![seaborn](https://github.com/NeharSultana/NeharSultana/assets/128970779/146006ee-e3e8-480b-84e8-470e8c8e6f37)
                     ![tablue](https://github.com/NeharSultana/NeharSultana/assets/128970779/f8873d0b-adc6-46c9-a8c6-2820f65382ce)
