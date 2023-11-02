@@ -14,6 +14,3 @@
 
 ## Languages and Tools:
 
-![Python](https://github.com/NeharSultana/NeharSultana/assets/128970779/8f521c4d-fbd8-4a89-b99c-19aaec4e2946)
-<img width="256" alt="r" src="https://github.com/NeharSultana/NeharSultana/assets/128970779/decdf5e1-7fa5-4e60-94ab-2476f1634d71">
-![sql](https://github.com/NeharSultana/NeharSultana/assets/128970779/ebb691ac-0572-4c68-b196-6b40cd08f9a3)
