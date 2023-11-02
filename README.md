@@ -13,3 +13,10 @@
 ⚡ Fun fact: I love exploring the world of art, particularly digital art. Visualizing data is just another canvas to paint my insights!
 
 ## Languages and Tools:
+![py](https://github.com/NeharSultana/NeharSultana/assets/128970779/27d3cd51-a008-499b-b327-eb272e2849aa)
+![sql](https://github.com/NeharSultana/NeharSultana/assets/128970779/d0050c75-d137-44e3-b68b-02ffd8c6b5c8)
+![pandas](https://github.com/NeharSultana/NeharSultana/assets/128970779/04006744-21d9-4eb3-b4f3-553eba73da69)
+![numpy](https://github.com/NeharSultana/NeharSultana/assets/128970779/fc221384-4bb9-4463-a77d-02e90442d516)
+![keras](https://github.com/NeharSultana/NeharSultana/assets/128970779/25f4db5a-a408-4d0d-a860-b62d0f487d9d)
+![flask](https://github.com/NeharSultana/NeharSultana/assets/128970779/22e74b04-9bb4-4dd5-a8ec-70585dd7bb39)
+![tensorflow](https://github.com/NeharSultana/NeharSultana/assets/128970779/8c1c4b50-cb13-45cb-ac99-4fc6951bec33)
