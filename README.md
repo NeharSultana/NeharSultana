@@ -1,4 +1,4 @@
-![seaborn](https://github.com/NeharSultana/NeharSultana/assets/128970779/33be3408-e348-4765-9e0e-af08ab828d74)![tablue](https://github.com/NeharSultana/NeharSultana/assets/128970779/50ccd0cd-3a86-458a-8a2e-52ee4e1fc4e6)# 💫 About Me:
+# 💫 About Me:
 
 👋 Hi, I’m @NeharSultana. I'm a passionate data science student exploring the depths of machine learning and data visualization.
 
