@@ -14,7 +14,7 @@
 
 ## Languages and Tools:
 
-Web Framework: ![flask](https://github.com/NeharSultana/NeharSultana/assets/128970779/22e74b04-9bb4-4dd5-a8ec-70585dd7bb39)
+# Web Framework: ![flask](https://github.com/NeharSultana/NeharSultana/assets/128970779/22e74b04-9bb4-4dd5-a8ec-70585dd7bb39)
 
 
 Programming Languages: ![py](https://github.com/NeharSultana/NeharSultana/assets/128970779/27d3cd51-a008-499b-b327-eb272e2849aa)
@@ -26,12 +26,12 @@ Data Manipulation and Analysis: ![pandas](https://github.com/NeharSultana/NeharS
 
                                 
 Machine Learning Frameworks: ![tensorflow](https://github.com/NeharSultana/NeharSultana/assets/128970779/8c1c4b50-cb13-45cb-ac99-4fc6951bec33)
+                             ![scikit](https://github.com/NeharSultana/NeharSultana/assets/128970779/487fd27c-468f-4e2c-acc4-ea775dfc056b)
+                       
 
-
-Data Visualization: Matplotlib, Seaborn, Tableau
-
-
-
+Data Visualization: ![matplotlib](https://github.com/NeharSultana/NeharSultana/assets/128970779/5721ca40-d05f-49a2-a8a7-5698314890e9)
+                    ![seaborn](https://github.com/NeharSultana/NeharSultana/assets/128970779/ffe0a017-b666-4660-aaf2-0aa1bafc36ab)
+                    ![tablue](https://github.com/NeharSultana/NeharSultana/assets/128970779/f2b184a1-cfdd-417e-b84a-d3260f4df4cd)
 
 
 
