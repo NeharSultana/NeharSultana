@@ -13,5 +13,3 @@
 ⚡ Fun fact: I love exploring the world of art, particularly digital art. Visualizing data is just another canvas to paint my insights!
 
 ## Languages and Tools:
-💻 Tech Stack:
-C HTML5 Java Python Flask MongoDB MySQL Keras NumPy Pandas TensorFlow LINUX 
